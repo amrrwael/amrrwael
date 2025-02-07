@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrrwael&label=Profile%20views&color=0e75b6&style=flat" alt="amrrwael" /> </p>
 
-- 🌱 I’m currently learning **React/THREEJS/NODE.js**
+- 🌱 I’m currently learning **React/R3F/.NET**
 
 - 📫 How to reach me **amrwael6j@gmail.com**
 
