@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrrwael&label=Profile%20views&color=0e75b6&style=flat" alt="amrrwael" /> </p>
 
-- 🌱 I’m currently learning **R3F**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **amrwael6j@gmail.com**
 
@@ -16,7 +16,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📜 Academic:
   <img src="https://img.shields.io/badge/Bachelor%20of%20Software%20Engineering-Tomsk%20State%20University-1877F2?style=for-the-badge">
-    <img src="https://img.shields.io/badge/GPA-4.2/5.0-EFEEE9?style=for-the-badge">
+    <img src="https://img.shields.io/badge/GPA-4.4/5.0-EFEEE9?style=for-the-badge">
     <img src="https://img.shields.io/badge/Graduation%20Year-2026-FFD700?style=for-the-badge">
   <p>Currently pursuing a Bachelor's degree in Software Engineering at Tomsk State University, focusing on modern software development practices and technologies.</p>
   
