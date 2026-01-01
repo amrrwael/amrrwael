@@ -20,9 +20,6 @@
     <img src="https://img.shields.io/badge/Graduation%20Year-2026-FFD700?style=for-the-badge">
   <p>Currently pursuing a Bachelor's degree in Software Engineering at Tomsk State University, focusing on modern software development practices and technologies.</p>
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amrrrwael&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amrrrwael&theme=dark&hide_border=false)<br/>
 
 ---
 
